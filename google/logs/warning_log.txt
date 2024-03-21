@@ -1,0 +1,91 @@
+2024-03-20 22:36:09,340 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70d55a7a8730>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/eb64ef34d546e51f397e1ca83f082803
+2024-03-20 22:36:09,340 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70d55a7a8880>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/eb64ef34d546e51f397e1ca83f082803
+2024-03-20 22:36:09,341 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70d55a7a89d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/eb64ef34d546e51f397e1ca83f082803
+2024-03-21 00:12:34,659 - WARNING - Произошла ошибка: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.128)
+Stacktrace:
+#0 0x5e66b76c0f33 <unknown>
+#1 0x5e66b73b8ce6 <unknown>
+#2 0x5e66b738f8cd <unknown>
+#3 0x5e66b742e76d <unknown>
+#4 0x5e66b7444226 <unknown>
+#5 0x5e66b7425c53 <unknown>
+#6 0x5e66b73f6db3 <unknown>
+#7 0x5e66b73f777e <unknown>
+#8 0x5e66b768686b <unknown>
+#9 0x5e66b768a885 <unknown>
+#10 0x5e66b7674181 <unknown>
+#11 0x5e66b768b412 <unknown>
+#12 0x5e66b765825f <unknown>
+#13 0x5e66b76af528 <unknown>
+#14 0x5e66b76af723 <unknown>
+#15 0x5e66b76c00e4 <unknown>
+#16 0x75fb43a94ac3 <unknown>
+
+2024-03-21 00:12:34,665 - WARNING - Произошла ошибка: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.128)
+Stacktrace:
+#0 0x5e66b76c0f33 <unknown>
+#1 0x5e66b73b8ce6 <unknown>
+#2 0x5e66b738f8cd <unknown>
+#3 0x5e66b742e76d <unknown>
+#4 0x5e66b7444226 <unknown>
+#5 0x5e66b7425c53 <unknown>
+#6 0x5e66b73f6db3 <unknown>
+#7 0x5e66b73f777e <unknown>
+#8 0x5e66b768686b <unknown>
+#9 0x5e66b768a885 <unknown>
+#10 0x5e66b7674181 <unknown>
+#11 0x5e66b768b412 <unknown>
+#12 0x5e66b765825f <unknown>
+#13 0x5e66b76af528 <unknown>
+#14 0x5e66b76af723 <unknown>
+#15 0x5e66b76c00e4 <unknown>
+#16 0x75fb43a94ac3 <unknown>
+
+2024-03-21 00:14:04,920 - WARNING - Произошла ошибка: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.128)
+Stacktrace:
+#0 0x58b35e4cef33 <unknown>
+#1 0x58b35e1c6ce6 <unknown>
+#2 0x58b35e19d8cd <unknown>
+#3 0x58b35e23c76d <unknown>
+#4 0x58b35e252226 <unknown>
+#5 0x58b35e233c53 <unknown>
+#6 0x58b35e204db3 <unknown>
+#7 0x58b35e20577e <unknown>
+#8 0x58b35e49486b <unknown>
+#9 0x58b35e498885 <unknown>
+#10 0x58b35e482181 <unknown>
+#11 0x58b35e499412 <unknown>
+#12 0x58b35e46625f <unknown>
+#13 0x58b35e4bd528 <unknown>
+#14 0x58b35e4bd723 <unknown>
+#15 0x58b35e4ce0e4 <unknown>
+#16 0x7a9cc9a94ac3 <unknown>
+
+2024-03-21 00:14:04,925 - WARNING - Произошла ошибка: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.128)
+Stacktrace:
+#0 0x58b35e4cef33 <unknown>
+#1 0x58b35e1c6ce6 <unknown>
+#2 0x58b35e19d8cd <unknown>
+#3 0x58b35e23c76d <unknown>
+#4 0x58b35e252226 <unknown>
+#5 0x58b35e233c53 <unknown>
+#6 0x58b35e204db3 <unknown>
+#7 0x58b35e20577e <unknown>
+#8 0x58b35e49486b <unknown>
+#9 0x58b35e498885 <unknown>
+#10 0x58b35e482181 <unknown>
+#11 0x58b35e499412 <unknown>
+#12 0x58b35e46625f <unknown>
+#13 0x58b35e4bd528 <unknown>
+#14 0x58b35e4bd723 <unknown>
+#15 0x58b35e4ce0e4 <unknown>
+#16 0x7a9cc9a94ac3 <unknown>
+
